@@ -1,42 +1,37 @@
-Códigos para Certificados - codigospcertificado
+Codes for Certificates - codigospcertificado
 
-Bem-vindo ao repositório codigospcertificado! 🚀
+Welcome to the codigospcertificado repository! 🚀
 
-Este repositório é dedicado a armazenar códigos e projetos que são frutos dos meus estudos e práticas na área de tecnologia. Aqui você encontrará soluções que foram desenvolvidas com o objetivo de aprendizado, avaliação e, eventualmente, para a emissão de certificados que validam essas competências.
+This repository is dedicated to storing codes and projects that are the result of my studies and practices in the technology area. Here you will find solutions that were developed with the objective of learning, evaluation and, eventually, for the issuance of certificates that validate these skills.
 
-🔍 O que você vai encontrar aqui:
+🔍 What you will find here:
 
-Projetos do FreeCodeCamp.
+FreeCodeCamp projects.
 
-Códigos de Data Visualization.
+Data Visualization codes.
 
-Scripts de Machine Learning with Python.
+Machine Learning with Python scripts.
 
-Projetos de Scientific Computing with Python.
+Scientific Computing with Python projects.
 
-Exercícios e projetos de Data Analysis with Python.
+Data Analysis with Python exercises and projects.
 
-📜 Objetivo:
+📜 Objective:
 
-Os códigos aqui presentes são utilizados para:
+The codes presented here are used to:
 
-Aprofundar meus estudos nas áreas de engenharia de dados e TI.
+Deepen my studies in the areas of data engineering and IT.
 
-Serem avaliados por instrutores e colegas, contribuindo para minha evolução profissional.
+Be evaluated by instructors and colleagues, contributing to my professional development.
 
-Emitir certificados que comprovam o conhecimento adquirido.
+Issuing certificates that prove the knowledge acquired.
 
-🚧 Em constante evolução:
+🚧 Constantly evolving:
 
-Este repositório será atualizado continuamente à medida que avanço nos estudos e exploro novas tecnologias. Sugestões e feedbacks são sempre bem-vindos!
+This repository will be continually updated as I advance in my studies and explore new technologies. Suggestions and feedback are always welcome!
 
-💡 Como contribuir:
+📩 Contact:
 
-Se você tem interesse em colaborar ou tem ideias de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Follow me on social media or contact me directly through my LinkedIn. Let's grow together!
 
-📩 Contato:
-
-Me acompanhe nas redes sociais ou entre em contato diretamente pelo meu LinkedIn. Vamos crescer juntos!
-
-Desenvolvido com paixão pela área de dados e pela curiosidade em aprender sempre mais! 🚀
-
+Developed with passion for the data area and the curiosity to always learn more! 🚀
