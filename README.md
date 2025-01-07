@@ -10,6 +10,8 @@ FreeCodeCamp projects.
 
 Data Visualization codes.
 
+Relational databases scripts.
+
 Machine Learning with Python scripts.
 
 Scientific Computing with Python projects.
